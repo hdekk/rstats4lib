@@ -1,10 +1,3 @@
-## Edit and uncomment the next line to point to the directory where 
-## circsample.csv is located.
-
-# test for >= ver.2.14 dependency
-
-
-
 library(ggplot2)
 library(gmodels)
 library(plyr)
@@ -17,6 +10,8 @@ library(portfolio)
 #  circ      - number of times the title has circulated
 #  lang      - language (3 letter code)
 #  cntry     - country of publication (2 letter code)
+
+# ADD a test for >= ver.2.14 dependency
 
 ## Be sure to set a working directory (where your data is located). Uncomment the 
 #  next line and edit accordingly.
